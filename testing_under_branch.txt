@@ -1,2 +1,0 @@
-this file will be uploaded on to release branch.
-this is also for testing purpose.
